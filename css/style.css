@@ -1,0 +1,17 @@
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+p.bold {
+    font-weight: bold;
+    font-family: 'Courier Prime', monospace;
+}
+
+p.medium-font {
+    font-size: 24px;
+    font-family: 'Dosis', sans-serif;
+}
+
+p.large-font {
+    line-height: 50px;
+}
